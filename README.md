@@ -1,2 +1,2 @@
 # Cuda-learn
-Pycuda and CUDA C
+Exploring Pycuda, CUDA C and its applications  
